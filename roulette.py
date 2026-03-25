@@ -20,7 +20,7 @@ def ask_number_player(answer, stavka, amount):
     os.system("cls" if os.name == "nt" else "clear")
     if check_number(answer, number_player) == True:
         print("\nКрутим рулетку\n")
-        num = spin(answer)
+        num = spin(answere)
         time.sleep(1.3)
         rules(amount, number_player, num, stavka, answer)
     return
