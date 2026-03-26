@@ -5,13 +5,13 @@ Hey, welcome to my mini casino! Ready to test your luck? 💸
 ---
 
 ## How to Play
-
-1. Tell the game how much money you’ve got.  
-2. Pick your game:  
+1. Run main.exe from dist library
+2. Tell the game how much money you’ve got.  
+3. Pick your game:  
    - **Blackjack** 🃏  
    - **Roulette** 🎡  
-3. Place your bet.  
-4. Play and see if luck is on your side! ✨
+4. Place your bet.  
+5. Play and see if luck is on your side! ✨
 
 ---
 
